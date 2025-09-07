@@ -4,7 +4,7 @@ body {
 }
 .container {
   max-width: 600px;
-  margin: 60px auto;
+  margin: 50px auto;
   background: white;
   padding: 30px;
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
@@ -62,7 +62,9 @@ h2 {
 }
 
 footer {
-  font-size: 24px;
+  font-size: 18px;
+  margin-top: 40px;
   text-align: center;
-  color: rgba(0, 0, 0, 0.2);
+  color: rgba(0, 0, 0, 0.6);
+  line-height: 30px;
 }
